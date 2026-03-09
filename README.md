@@ -124,7 +124,7 @@ Coordinated free cataract surgery and dialysis programs for underprivileged comm
 
 ```
 ┌──────────────────────────────────────────┐
-│   "Ever since i was young i wanted to
+│  "Ever since i was young i wanted to
     transform unstructured data into
     actionable insights."                  │
 └──────────────────────────────────────────┘
@@ -133,17 +133,3 @@ Coordinated free cataract surgery and dialysis programs for underprivileged comm
 *Open to research internships & fellowships at the intersection of data and impact.*
 
 </div>
-<!--
-**brittivora/brittivora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
