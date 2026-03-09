@@ -13,7 +13,7 @@
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-### `MSc Data Science` · `Mumbai` · `Social Impact × Data`
+### `Data Scientist` · `Mumbai`
 
 [![Email](https://img.shields.io/badge/✉_britti.vora14@gmail.com-0f172a?style=flat-square&logoColor=white)](mailto:britti.vora026@nmims.in)
 
@@ -21,15 +21,12 @@
 
 ---
 
-## `whoami`
+## `About me`
 
 ```python
 britti = {
     "degree"    : "MSc Data Science @ NMIMS Mumbai  [SGPA 8.36]",
     "prev"      : "BSc Data Science @ Somaiya Vidyavihar  [CGPA 9.35]",
-    "interests" : ["geospatial analytics", "deep learning", "social sector data"],
-    "currently" : "building flood-risk routing systems & exploring ML for impact",
-    "ask_me_about": ["time series", "NLP", "spatial data", "LSTM models"]
 }
 ```
 
@@ -127,8 +124,9 @@ Coordinated free cataract surgery and dialysis programs for underprivileged comm
 
 ```
 ┌──────────────────────────────────────────┐
-│   "Data is most powerful when it         │
-│    serves the people who need it most."  │
+│   "Ever since i was young i wanted to
+    transform unstructured data into
+    actionable insights."                  │
 └──────────────────────────────────────────┘
 ```
 
