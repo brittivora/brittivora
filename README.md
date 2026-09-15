@@ -1,5 +1,6 @@
 <div align="center">
 
+```
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
 ║     ██████╗ ██████╗ ██╗████████╗████████╗██╗                ║
@@ -10,34 +11,25 @@
 ║     ╚═════╝ ╚═╝  ╚═╝╚═╝   ╚═╝      ╚═╝   ╚═╝                ║
 ║                       V O R A                                ║
 ╚══════════════════════════════════════════════════════════════╝
+```
 
-### `Data Scientist` · `Mumbai, India`
+### `Data Scientist` · `Mumbai`
 
-[![Email](https://img.shields.io/badge/Email-brittivora14%40gmail.com-0f172a?style=flat-square&logo=gmail)](mailto:brittivora14@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f172a?style=flat-square&logo=linkedin)](https://linkedin.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=flat-square&logo=github)](https://github.com/)
+[![Email](https://img.shields.io/badge/✉_brittivora14@gmail.com-0f172a?style=flat-square&logoColor=white)](mailto:brittivora14@gmail.com)
+[![Phone](https://img.shields.io/badge/📱_+91_8369057977-0f172a?style=flat-square&logoColor=white)](tel:+918369057977)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f172a?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/britti-vora)
+[![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=flat-square&logo=github&logoColor=white)](https://github.com/brittivora)
 
 </div>
 
 ---
 
-## `about_me.py`
+## `About me`
 
 ```python
 britti = {
-    "education": "MSc Data Science @ NMIMS Mumbai",
-    "cgpa": "8.5/10",
-    "interests": [
-        "Generative AI",
-        "Agentic RAG",
-        "Time Series Forecasting",
-        "Geospatial AI",
-        "Deep Learning"
-    ],
-    "currently_building": [
-        "Financial Agentic RAG",
-        "Flood-Risk-Aware Routing System"
-    ]
+    "degree"    : "MSc Data Science @ NMIMS Mumbai  [SGPA 8.5]  · 2025-Present",
+    "prev"      : "BSc Data Science @ Somaiya Vidyavihar  [CGPA 9.35]  · 2022-2025",
 }
 ```
 
@@ -47,128 +39,121 @@ britti = {
 
 <div align="center">
 
-### Languages
+**Languages & Query**
 
 ![Python](https://img.shields.io/badge/Python-1e293b?style=flat-square&logo=python&logoColor=FFD43B)
 ![R](https://img.shields.io/badge/R-1e293b?style=flat-square&logo=r&logoColor=276DC3)
 ![SQL](https://img.shields.io/badge/SQL-1e293b?style=flat-square&logo=postgresql&logoColor=4169E1)
 ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-1e293b?style=flat-square&logo=html5&logoColor=E34F26)
+![XML](https://img.shields.io/badge/XML-1e293b?style=flat-square&logo=xml&logoColor=F16529)
+![Scilab](https://img.shields.io/badge/Scilab-1e293b?style=flat-square&logoColor=CE282D)
 
-### AI / ML
+**ML / DL**
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-1e293b?style=flat-square&logo=tensorflow&logoColor=FF6F00)
-![PyTorch](https://img.shields.io/badge/PyTorch-1e293b?style=flat-square&logo=pytorch&logoColor=EE4C2C)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1e293b?style=flat-square&logo=scikit-learn&logoColor=F7931E)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-1e293b?style=flat-square&logo=huggingface&logoColor=FFD21E)
+![Keras](https://img.shields.io/badge/Keras-1e293b?style=flat-square&logo=keras&logoColor=D00000)
+![PyTorch](https://img.shields.io/badge/PyTorch-1e293b?style=flat-square&logo=pytorch&logoColor=EE4C2C)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-1e293b?style=flat-square&logo=huggingface&logoColor=FFD21E)
 
-### Data & Cloud
+**Cloud & Big Data**
 
 ![AWS](https://img.shields.io/badge/AWS-1e293b?style=flat-square&logo=amazonaws&logoColor=FF9900)
-![Apache Spark](https://img.shields.io/badge/Spark-1e293b?style=flat-square&logo=apachespark&logoColor=E25A1C)
-![Hadoop](https://img.shields.io/badge/Hadoop-1e293b?style=flat-square&logo=apache&logoColor=66CCFF)
-![Hive](https://img.shields.io/badge/Hive-1e293b?style=flat-square&logo=apache&logoColor=FDEE21)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-1e293b?style=flat-square&logo=apachespark&logoColor=E25A1C)
+![Hadoop](https://img.shields.io/badge/Hadoop-1e293b?style=flat-square&logo=apachehadoop&logoColor=66CCFF)
+![Hive](https://img.shields.io/badge/Apache_Hive-1e293b?style=flat-square&logoColor=FDEE21)
 
-### Databases & BI
+**Data & Visualization**
+
+![Tableau](https://img.shields.io/badge/Tableau-1e293b?style=flat-square&logo=tableau&logoColor=E97627)
+![Power BI](https://img.shields.io/badge/Power_BI-1e293b?style=flat-square&logo=powerbi&logoColor=F2C811)
+![Excel](https://img.shields.io/badge/Excel-1e293b?style=flat-square&logo=microsoftexcel&logoColor=217346)
+
+**Databases**
 
 ![MySQL](https://img.shields.io/badge/MySQL-1e293b?style=flat-square&logo=mysql&logoColor=4479A1)
 ![MongoDB](https://img.shields.io/badge/MongoDB-1e293b?style=flat-square&logo=mongodb&logoColor=47A248)
-![Oracle](https://img.shields.io/badge/Oracle-1e293b?style=flat-square&logo=oracle&logoColor=F80000)
-![Power BI](https://img.shields.io/badge/Power_BI-1e293b?style=flat-square&logo=powerbi&logoColor=F2C811)
-![Tableau](https://img.shields.io/badge/Tableau-1e293b?style=flat-square&logo=tableau&logoColor=E97627)
+![Oracle](https://img.shields.io/badge/Oracle_PL%2FSQL-1e293b?style=flat-square&logo=oracle&logoColor=F80000)
 
-### Tools
+**Tools**
 
 ![Git](https://img.shields.io/badge/Git-1e293b?style=flat-square&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-1e293b?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-1e293b?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
+![StarUML](https://img.shields.io/badge/StarUML-1e293b?style=flat-square&logoColor=white)
 
 </div>
 
 ---
 
-## `experience`
+## `experience[]`
 
-### 🤖 Robotics Annotator Intern — Autonex AI 360 Pvt. Ltd.
-
-`June 2026`
-
-- Image and text annotation for robotics datasets
-- Data labeling and classification following annotation protocols
-- Quality assurance and dataset validation for AI model training
+**Robotics Annotator Intern · Autonex AI 360 Private Limited** *(June 2026)*
+Performed image and text annotation, data labeling, and classification per project protocols; ensured QA and accuracy standards across dataset preparation and management.
 
 ---
 
 ## `projects[]`
 
 ### 💰 Agentic Financial RAG System
+> `LLM Tool-Use` · `Hybrid Retrieval` · `Citation Verification`
+*June 2026 – Present*
 
-`LLMs · Hybrid Search · RAG · Citation Verification`
-
-Built an intelligent financial question-answering system over **JPMorgan Chase earnings reports** using hybrid semantic + keyword retrieval, LLM-driven tool selection, table-aware retrieval, and automated citation grounding.
-
----
-
-### 🌊 FloodReroute — Flood-Risk-Aware Routing
-
-`FastAPI · React · GIS · A* Algorithm`
-
-Developed a real-time routing system over a **101,907-node Mumbai road network** by combining DEMs, SAR imagery, IMD rainfall, and OpenStreetMap. Reduced route flood risk by **16%** while increasing travel time by only **1.7 minutes**.
+Built an agentic financial QA system with LLM-driven tool selection, hybrid semantic/keyword retrieval, and iterative document search across JPMorgan Chase earnings reports. Implemented table-aware retrieval and automated citation verification, grounding responses to source document IDs and page-level references.
 
 ---
 
-### 📈 Stock Return Prediction using Tweet Sentiment
+### 🌊 FloodReroute — Flood-Risk-Aware Routing for Mumbai
+> `Geospatial ML` · `A* Routing` · `FastAPI` · `React/TypeScript`
+*Aug 2026*
 
-`ARIMA · GARCH · XGBoost · Random Forest · LSTM`
-
-Built a multivariate forecasting pipeline using stock prices, tweet volume, sentiment polarity, and volatility features. Implemented leakage-free chronological validation and achieved:
-
-- **RMSE:** 0.0095
-- **MAE:** 0.0075
-- **Directional Accuracy:** 60.7%
+Built a 5-factor flood-risk model across a 101,907-node road network by fusing 6 geospatial data sources (OSM, satellite DEMs, SAR imagery, IMD rainfall). Designed a risk-weighted A* routing engine cutting route risk by 16% and eliminating flood hotspots at a cost of just 1.7 extra minutes. Deployed a FastAPI backend paired with a React/TypeScript web app for real-time route updates from live rainfall data.
 
 ---
 
-### 🎵 Audio Source Separation — Progressive Model Study
+### 🎧 Audio Source Separation — Progressive Model Study
+> `PyTorch` · `ICA/NMF/VAE` · `MixIT` · `Demucs`
+*April 2026*
 
-`PyTorch · VAE · Autoencoder · ICA · NMF · MixIT`
-
-Compared **6 unsupervised source separation models** against Demucs. Designed Autoencoder, Variational AE, Recurrent VAE, and MixIT architectures while evaluating performance using **Signal-to-Distortion Ratio (SDR)**.
+Built an audio separation pipeline comparing 6 unsupervised models (ICA, NMF, Autoencoder, VAE, RVAE, MixIT) against a supervised Demucs baseline; NMF achieved the best unsupervised SDR of 5.79 dB vs. 15.14 dB for Demucs. Designed PyTorch architectures (multi-head Autoencoder, VAE, Recurrent VAE) and implemented MixIT, a self-supervised Mixture-of-Mixtures paradigm.
 
 ---
 
-## `education`
+### 📈 Stock Return Prediction using Aggregated Tweet Sentiment
+> `ARIMA` · `GARCH` · `XGBoost` · `LSTM`
+*March 2026*
 
-| Degree | Institute | Score |
-|---------|-----------|------|
-| MSc Data Science | NMIMS Mumbai | **CGPA 8.5** |
-| BSc Data Science | Somaiya Vidyavihar University | **CGPA 9.35** |
-| HSC | Rajhans Vidyalaya | **91%** |
-| SSC | Rajhans Vidyalaya | **82.8%** |
+Built a multivariate NKE stock-return prediction model using aggregated tweet volume, sentiment polarity counts, and volatility features. Implemented ARIMA, GARCH, Random Forest, XGBoost, and LSTM with leakage-free chronological validation, achieving the lowest error with LSTM (RMSE: 0.0095; MAE: 0.0075) and 60.7% directional accuracy.
 
 ---
 
 ## `achievements`
 
-🏆 **2nd Place — Innoquest Hackathon (2025)**
-
-Built a startup trend analysis platform that analyzed emerging ventures using real-time data to generate actionable insights for investors and entrepreneurs.
+| 🏆 | Event | Org | Date |
+|---|---|---|---|
+| 🥈 2nd Place | Innoquest Hackathon — Startup Trend Analysis Platform | SK Somaiya College | 2025 |
 
 ---
 
 ## `beyond_the_code`
 
 **Volunteer · Sanskriti Foundation**
+Assisted in organizing free cataract surgery and dialysis programs for underprivileged communities — coordinating patients, awareness campaigns, and medical camp operations.
 
-Coordinated free cataract surgery and dialysis programs by managing patient logistics, awareness campaigns, and medical camp operations for underprivileged communities.
-
-> *I enjoy building AI systems that solve practical problems—from financial reasoning to disaster resilience.*
+> *Passionate about using data science as a tool for social good.*
 
 ---
 
 <div align="center">
 
-"Transforming messy, real-world data into reliable and intelligent systems."
+```
+┌──────────────────────────────────────────┐
+│  "Ever since i was young i wanted to
+    transform unstructured data into
+    actionable insights."                  │
+└──────────────────────────────────────────┘
+```
 
-⭐ Always learning • Building • Researching
+*Open to research internships & fellowships at the intersection of data and impact.*
 
 </div>
