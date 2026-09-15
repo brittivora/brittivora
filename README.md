@@ -1,6 +1,5 @@
 <div align="center">
 
-```
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
 ║     ██████╗ ██████╗ ██╗████████╗████████╗██╗                ║
@@ -11,22 +10,34 @@
 ║     ╚═════╝ ╚═╝  ╚═╝╚═╝   ╚═╝      ╚═╝   ╚═╝                ║
 ║                       V O R A                                ║
 ╚══════════════════════════════════════════════════════════════╝
-```
 
-### `Data Scientist` · `Mumbai`
+### `Data Scientist` · `Mumbai, India`
 
-[![Email](https://img.shields.io/badge/✉_britti.vora14@gmail.com-0f172a?style=flat-square&logoColor=white)](mailto:britti.vora026@nmims.in)
+[![Email](https://img.shields.io/badge/Email-brittivora14%40gmail.com-0f172a?style=flat-square&logo=gmail)](mailto:brittivora14@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f172a?style=flat-square&logo=linkedin)](https://linkedin.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=flat-square&logo=github)](https://github.com/)
 
 </div>
 
 ---
 
-## `About me`
+## `about_me.py`
 
 ```python
 britti = {
-    "degree"    : "MSc Data Science @ NMIMS Mumbai  [SGPA 8.36]",
-    "prev"      : "BSc Data Science @ Somaiya Vidyavihar  [CGPA 9.35]",
+    "education": "MSc Data Science @ NMIMS Mumbai",
+    "cgpa": "8.5/10",
+    "interests": [
+        "Generative AI",
+        "Agentic RAG",
+        "Time Series Forecasting",
+        "Geospatial AI",
+        "Deep Learning"
+    ],
+    "currently_building": [
+        "Financial Agentic RAG",
+        "Flood-Risk-Aware Routing System"
+    ]
 }
 ```
 
@@ -36,100 +47,128 @@ britti = {
 
 <div align="center">
 
-**Languages & Query**
+### Languages
 
 ![Python](https://img.shields.io/badge/Python-1e293b?style=flat-square&logo=python&logoColor=FFD43B)
 ![R](https://img.shields.io/badge/R-1e293b?style=flat-square&logo=r&logoColor=276DC3)
 ![SQL](https://img.shields.io/badge/SQL-1e293b?style=flat-square&logo=postgresql&logoColor=4169E1)
 ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-1e293b?style=flat-square&logo=html5&logoColor=E34F26)
 
-**ML / DL**
+### AI / ML
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-1e293b?style=flat-square&logo=tensorflow&logoColor=FF6F00)
+![PyTorch](https://img.shields.io/badge/PyTorch-1e293b?style=flat-square&logo=pytorch&logoColor=EE4C2C)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1e293b?style=flat-square&logo=scikit-learn&logoColor=F7931E)
-![Keras](https://img.shields.io/badge/Keras-1e293b?style=flat-square&logo=keras&logoColor=D00000)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-1e293b?style=flat-square&logo=huggingface&logoColor=FFD21E)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-1e293b?style=flat-square&logo=huggingface&logoColor=FFD21E)
 
-**Data & Visualization**
+### Data & Cloud
 
-![Tableau](https://img.shields.io/badge/Tableau-1e293b?style=flat-square&logo=tableau&logoColor=E97627)
-![Power BI](https://img.shields.io/badge/Power_BI-1e293b?style=flat-square&logo=powerbi&logoColor=F2C811)
-![Excel](https://img.shields.io/badge/Excel-1e293b?style=flat-square&logo=microsoftexcel&logoColor=217346)
+![AWS](https://img.shields.io/badge/AWS-1e293b?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![Apache Spark](https://img.shields.io/badge/Spark-1e293b?style=flat-square&logo=apachespark&logoColor=E25A1C)
+![Hadoop](https://img.shields.io/badge/Hadoop-1e293b?style=flat-square&logo=apache&logoColor=66CCFF)
+![Hive](https://img.shields.io/badge/Hive-1e293b?style=flat-square&logo=apache&logoColor=FDEE21)
 
-**Databases**
+### Databases & BI
 
 ![MySQL](https://img.shields.io/badge/MySQL-1e293b?style=flat-square&logo=mysql&logoColor=4479A1)
 ![MongoDB](https://img.shields.io/badge/MongoDB-1e293b?style=flat-square&logo=mongodb&logoColor=47A248)
-![Oracle](https://img.shields.io/badge/Oracle_PL%2FSQL-1e293b?style=flat-square&logo=oracle&logoColor=F80000)
+![Oracle](https://img.shields.io/badge/Oracle-1e293b?style=flat-square&logo=oracle&logoColor=F80000)
+![Power BI](https://img.shields.io/badge/Power_BI-1e293b?style=flat-square&logo=powerbi&logoColor=F2C811)
+![Tableau](https://img.shields.io/badge/Tableau-1e293b?style=flat-square&logo=tableau&logoColor=E97627)
 
-**Tools**
+### Tools
 
 ![Git](https://img.shields.io/badge/Git-1e293b?style=flat-square&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-1e293b?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-1e293b?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
-![QGIS](https://img.shields.io/badge/QGIS-1e293b?style=flat-square&logo=qgis&logoColor=589632)
 
 </div>
 
 ---
 
+## `experience`
+
+### 🤖 Robotics Annotator Intern — Autonex AI 360 Pvt. Ltd.
+
+`June 2026`
+
+- Image and text annotation for robotics datasets
+- Data labeling and classification following annotation protocols
+- Quality assurance and dataset validation for AI model training
+
+---
+
 ## `projects[]`
 
-### 🤟 Real-Time Sign Language Detection
-> `OpenCV` · `MediaPipe` · `LSTM` · `TensorFlow/Keras` · `Streamlit`
+### 💰 Agentic Financial RAG System
 
-Built a live gesture recognition system extracting 3D hand landmarks to generate temporal sequences. Trained an LSTM model to classify four gestures and deployed real-time inference via a Streamlit webcam interface.
+`LLMs · Hybrid Search · RAG · Citation Verification`
 
----
-
-### ✈️ Predictive Maintenance for Aircraft Engines
-> `Python` · `Scikit-learn` · `XGBoost` · `Random Forest` · `GridSearchCV`
-
-Estimated Remaining Useful Life (RUL) of aircraft engines using NASA's Turbofan dataset. Applied feature selection, hyperparameter tuning, and evaluated models with RMSE and R².
+Built an intelligent financial question-answering system over **JPMorgan Chase earnings reports** using hybrid semantic + keyword retrieval, LLM-driven tool selection, table-aware retrieval, and automated citation grounding.
 
 ---
 
-### 🌦️ Weather Forecasting with NeuralProphet
-> `Python` · `NeuralProphet` · `Time Series Analysis`
+### 🌊 FloodReroute — Flood-Risk-Aware Routing
 
-Developed a forecasting pipeline using NeuralProphet — from data prep and model training to forecast visualization — demonstrating end-to-end time series proficiency.
+`FastAPI · React · GIS · A* Algorithm`
+
+Developed a real-time routing system over a **101,907-node Mumbai road network** by combining DEMs, SAR imagery, IMD rainfall, and OpenStreetMap. Reduced route flood risk by **16%** while increasing travel time by only **1.7 minutes**.
 
 ---
 
-### 🎮 Product Recommendation System
-> `Python` · `Pandas` · `Scikit-learn` · `Surprise` · `NLP`
+### 📈 Stock Return Prediction using Tweet Sentiment
 
-Built a video game recommender that analyzes textual reviews using NLP to deliver personalized game suggestions.
+`ARIMA · GARCH · XGBoost · Random Forest · LSTM`
+
+Built a multivariate forecasting pipeline using stock prices, tweet volume, sentiment polarity, and volatility features. Implemented leakage-free chronological validation and achieved:
+
+- **RMSE:** 0.0095
+- **MAE:** 0.0075
+- **Directional Accuracy:** 60.7%
+
+---
+
+### 🎵 Audio Source Separation — Progressive Model Study
+
+`PyTorch · VAE · Autoencoder · ICA · NMF · MixIT`
+
+Compared **6 unsupervised source separation models** against Demucs. Designed Autoencoder, Variational AE, Recurrent VAE, and MixIT architectures while evaluating performance using **Signal-to-Distortion Ratio (SDR)**.
+
+---
+
+## `education`
+
+| Degree | Institute | Score |
+|---------|-----------|------|
+| MSc Data Science | NMIMS Mumbai | **CGPA 8.5** |
+| BSc Data Science | Somaiya Vidyavihar University | **CGPA 9.35** |
+| HSC | Rajhans Vidyalaya | **91%** |
+| SSC | Rajhans Vidyalaya | **82.8%** |
 
 ---
 
 ## `achievements`
 
-| 🏆 | Event | Org | Date |
-|---|---|---|---|
-| 🥈 2nd Place | Innoquest Hackathon — Startup Trend Analysis Platform | SK Somaiya College | Dec 2024 |
+🏆 **2nd Place — Innoquest Hackathon (2025)**
+
+Built a startup trend analysis platform that analyzed emerging ventures using real-time data to generate actionable insights for investors and entrepreneurs.
 
 ---
 
 ## `beyond_the_code`
 
-**Volunteer · Sanskriti Foundation** *(Jul 2024 – Jan 2025)*  
-Coordinated free cataract surgery and dialysis programs for underprivileged communities — managing patient logistics, awareness campaigns, and operations for large-scale medical camps.
+**Volunteer · Sanskriti Foundation**
 
-> *Passionate about using data science as a tool for social good.*
+Coordinated free cataract surgery and dialysis programs by managing patient logistics, awareness campaigns, and medical camp operations for underprivileged communities.
+
+> *I enjoy building AI systems that solve practical problems—from financial reasoning to disaster resilience.*
 
 ---
 
 <div align="center">
 
-```
-┌──────────────────────────────────────────┐
-│  "Ever since i was young i wanted to
-    transform unstructured data into
-    actionable insights."                  │
-└──────────────────────────────────────────┘
-```
+"Transforming messy, real-world data into reliable and intelligent systems."
 
-*Open to research internships & fellowships at the intersection of data and impact.*
+⭐ Always learning • Building • Researching
 
 </div>
